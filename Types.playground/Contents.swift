@@ -16,3 +16,9 @@ let numberOfCountriesInAfrica = 54
 
 let numberOfMoonsOfSaturn = 62
 print("There are \(numberOfMoonsOfSaturn) moons orbiting \(sixthPlanet)")
+
+let earth = "Earth"
+
+let earthMoons = 1
+
+print("\(earth) has \(earthMoons) moon")
